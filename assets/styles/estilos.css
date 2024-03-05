@@ -21,3 +21,11 @@
 .fondo2{
     background-color:darkgrey;
 }
+
+.principal{
+    background-image: url(../img/banner2.jpg);
+    padding: 25%;
+    background-attachment: fixed;
+    position: 
+    z-index:1;
+}
