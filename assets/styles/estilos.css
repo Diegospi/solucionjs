@@ -39,3 +39,9 @@ a{
   font-style: normal;
 }
 
+.principal{
+    background-image: url(../img/banner2.jpg);
+    padding: 25%;
+    background-attachment: fixed;
+        z-index:1;
+}
