@@ -22,13 +22,8 @@
     background-color:darkgrey;
 }
 
-.nombreT{
-    margin-right: 1200px;
-}
-
 .principal{
     background-image: url(../img/banner2.jpg);
     padding: 25%;
     background-attachment: fixed;
-    z-index:1;
 }
